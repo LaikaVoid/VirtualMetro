@@ -1,2 +1,2 @@
 # VirtualMetro
-vm
+Virtual Metro is going to be a space exploration, 3D first person, MMORPG. Players start in orbit around the main solar system after they select their starter ship and have access to malls, shops, gas stations, etc. This solar system will be fictional and constantly getting bigger as well with more planets, space stations, and features. All space stations and planets in the main solar system will not be user owned, however eventually users will be able to create their own solar systems and customize it how they please. 
